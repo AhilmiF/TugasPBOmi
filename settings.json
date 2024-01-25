@@ -1,0 +1,24 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\_Software\\mysql-connector-java-8.0.27\\mysql-connector-java-8.0.27.jar",
+        "c:\\Users\\HP\\Downloads\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "koneksii",
+            "database": "farmasi_obat",
+            "username": "hilmi",
+            "password": "hilmi"
+        }
+    ]
+}
